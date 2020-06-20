@@ -1,6 +1,6 @@
 source("GecoFunctions.R")
 
-# "input_files.txt" and number of cores for paralllel processing
+# "input_files.txt" and number of cores for parallel processing
 # generate walk matrix and runs RWR to generate neighborhood with RWR scores
 nbhd <- generateNbhd("input_files", 40)
 
