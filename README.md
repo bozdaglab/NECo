@@ -29,7 +29,7 @@ phenotype	phenotype_net1<br>
 phenotype	phenotype_net2<br>
 bipartite	gene_phenotype_net<br>
 
-Current implementation utilizes "rds" R file format given below format:<br>
+Current implementation utilizes "rds" R file for network layers given below format:<br>
 
 _**from to weight**_<br>
 gene1 gene2 0.5<br>
